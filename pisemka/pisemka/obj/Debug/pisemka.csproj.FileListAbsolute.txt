@@ -1,0 +1,10 @@
+G:\Programování\TEXTOVE SOUBORY---------------------\pisemka\pisemka\bin\Debug\pisemka.exe.config
+G:\Programování\TEXTOVE SOUBORY---------------------\pisemka\pisemka\bin\Debug\pisemka.exe
+G:\Programování\TEXTOVE SOUBORY---------------------\pisemka\pisemka\bin\Debug\pisemka.pdb
+G:\Programování\TEXTOVE SOUBORY---------------------\pisemka\pisemka\obj\Debug\pisemka.csprojAssemblyReference.cache
+G:\Programování\TEXTOVE SOUBORY---------------------\pisemka\pisemka\obj\Debug\pisemka.Form1.resources
+G:\Programování\TEXTOVE SOUBORY---------------------\pisemka\pisemka\obj\Debug\pisemka.Properties.Resources.resources
+G:\Programování\TEXTOVE SOUBORY---------------------\pisemka\pisemka\obj\Debug\pisemka.csproj.GenerateResource.cache
+G:\Programování\TEXTOVE SOUBORY---------------------\pisemka\pisemka\obj\Debug\pisemka.csproj.CoreCompileInputs.cache
+G:\Programování\TEXTOVE SOUBORY---------------------\pisemka\pisemka\obj\Debug\pisemka.exe
+G:\Programování\TEXTOVE SOUBORY---------------------\pisemka\pisemka\obj\Debug\pisemka.pdb
